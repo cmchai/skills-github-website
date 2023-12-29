@@ -2,6 +2,7 @@
 title: Welcome to my blog
 ---
 
+# My naam is Mengqiao Chai, een doctoraal onderzoeker aan UGent. And het is mijn website die voor knowledge sharing, enjoy reading!
 # A small preview of the blogs that I wrote...
 
 ## blog nummer 1
