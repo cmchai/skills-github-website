@@ -2,7 +2,7 @@
 title: Welcome to my blog
 ---
 
-# this a big title of my website
+# A small preview of the blogs that I wrote...
 
 ## blog nummer 1
 
